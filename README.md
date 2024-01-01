@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jimstir
+👋 Hi, I’m @jimstir
+
 Follow me on [Medium!!](https://medium.com/@jimstir)
 
 <!---
